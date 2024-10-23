@@ -74,7 +74,7 @@ const Login = () =>{
                     <Button htmlType="submit">Login</Button>
                 </Row>
                 <br />
-                <span>Don't have an account</span>
+                <span>Do not have an account</span>
                 <a href="/signup">Signup here</a>
             </Card>
         </Row>
