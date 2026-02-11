@@ -4,3 +4,6 @@ then after signup, it will redirect you to login and after login to home.
 
 instruction:
 npm run dev  //command for running website
+
+
+Thank you for using this website.
